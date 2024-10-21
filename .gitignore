@@ -1,4 +1,3 @@
 # Ignore IDE settings (PhpStorm, WebStorm)
 .idea/
-# Ignore the images folder
-images/
+
